@@ -1,2 +1,2 @@
 # landingPage using Html and Css.
-live preview - https://tushar-alec.github.io/landingPage/
+<a href="https://tushar-alec.github.io/landingPage/">Live Preview</a>
