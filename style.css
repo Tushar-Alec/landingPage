@@ -201,3 +201,41 @@ footer {
 }
 
 
+ /* Style the search input container */
+ .search-container {
+  position: relative;
+  width: 250px;
+}
+
+/* Style the search input */
+.search-input {
+  width: 100%;
+  padding: 11px;
+  border: none;
+  border-radius: 0px;
+  font-size: 16px;
+  margin-top: 5px;
+  background-color: bisque;
+  outline: none;
+}
+
+.search-btn {
+  width: 40px;
+  margin-top: 5px;
+  padding: 12px;
+  border-radius: 0px;
+  font-size: 13px;
+  cursor: pointer;
+  position: absolute;
+  background: bisque;
+  /* border: 2px thin beige; */
+  border: none;
+}
+
+.search-btn:hover {
+  transform: none;
+}
+
+
+
+
